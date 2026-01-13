@@ -1,8 +1,6 @@
-<div align="center">
+# 👋 Bienvenido a mi perfil
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hola,%20soy%20Nicolás!&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Ing.%20Multimedia%20%7C%20Marketing%20%7C%20Cine%20Artístico&descAlignY=55&descAlign=50" width="100%" />
-
-  ### 🚀 Explorando la intersección entre Tecnología, Arte y Negocios
+  **`🚀 Explorando la intersección entre Tecnología y Arte`**
   
   <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=28B5F7&center=true&vCenter=true&width=435&lines=Estudiante+de+Ingenier%C3%ADa+Multimedia;Doble+Titulaci%C3%B3n+en+Mercadeo;Amante+del+Cine+y+el+Dise%C3%B1o;Aprendiendo+Linux+y+Git" alt="Typing SVG" /></a>
@@ -22,10 +20,6 @@
           <li>🇨🇴 De: <b>Colombia</b></li>
         </ul>
       </td>
-      <td align="center" width="40%">
-        <h3>🎧 My Vibe</h3>
-        <img src="https://media.giphy.com/media/Lmq2eMv7gqTbOFhtHK/giphy.gif" width="200" style="border-radius: 15px;">
-      </td>
     </tr>
   </table>
 
@@ -43,18 +37,7 @@
 
   <h3>📊 Mis Estadísticas</h3>
   
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="stats" />
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="languages" />
-  </div>
-  
-  <br>
-  
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
-  </div>
-
+![Vocairiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vocairius&theme=dark&show_icons=true)
   ---
 
   <p align="center">
